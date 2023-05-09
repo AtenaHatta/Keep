@@ -10,6 +10,7 @@
 
 html {
   font-family: "Montserrat", sans-serif;
+  
 }
 
 body {
@@ -35,6 +36,12 @@ header h1 {
   color: #fff;
   font-size: 1.9rem;
   margin-right: 0.5rem;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* Input */
