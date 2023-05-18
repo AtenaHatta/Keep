@@ -37,7 +37,8 @@ Keep app is a digital tool that allows users to create, edit, organize, and stor
 <!-- (https://keep-five.vercel.app/) -->
 
 ## Built With
-* 
+* React.js
+* Redux
 
 
 ## Usage
