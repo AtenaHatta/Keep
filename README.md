@@ -43,7 +43,6 @@ Keep app is a digital tool that allows users to create, edit, organize, and stor
 
 ReactJS
 
-* []()
 
 ## Usage
 
