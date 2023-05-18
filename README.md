@@ -72,6 +72,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/AtenaHatta/K
 
 * **Atena Hatta** - ** - [Atena Hatta](https://github.com/AtenaHatta) - **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React Logo" width="80" height="80">
 
 
