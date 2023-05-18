@@ -4,8 +4,6 @@
         <img src="img_keep.png" alt="Logo">
   </a>
 
-  <h3 align="center">Keep</h3>
-
   <p align="center">
     Once you sign up, you can utilize this note app at any time! The app serves as a reminder, allowing you to effortlessly edit or delete your notes as frequently as desired.
     <br/>
