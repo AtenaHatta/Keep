@@ -4,6 +4,7 @@
     <img src="https://keep-five.vercel.app/" alt="Logo" width="80" height="80">
   </a>
 
+  <img src="img_keep.png">
   <h3 align="center">Keep</h3>
 
   <p align="center">
