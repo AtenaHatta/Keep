@@ -1,11 +1,8 @@
 <br/>
 <p align="center">
   <a href="https://github.com/AtenaHatta/Keep">
-    <img src="https://keep-five.vercel.app/" alt="Logo" width="80" height="80">
-        <img src="img_keep.png" alt="Logo" width="80" height="80">
+        <img src="img_keep.png" alt="Logo">
   </a>
-
-  <h3 align="center">Keep</h3>
 
   <p align="center">
     Once you sign up, you can utilize this note app at any time! The app serves as a reminder, allowing you to effortlessly edit or delete your notes as frequently as desired.
@@ -35,14 +32,13 @@
 * [Authors](#authors)
 
 ## About The Project
-
-![Screen Shot](https://keep-five.vercel.app/)
-<img src="image_keep_screenshot.png">
-
 Keep app is a digital tool that allows users to create, edit, organize, and store various types of notes. It provides a convenient and efficient way to capture and manage information.
+<img src="image_keep_screenshot.png">
+<!-- (https://keep-five.vercel.app/) -->
 
 ## Built With
-* [![React][React.js]][React-url]
+* React.js
+* Redux
 
 
 ## Usage
@@ -76,4 +72,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/AtenaHatta/K
 ## Authors
 
 * **Atena Hatta** - ** - [Atena Hatta](https://github.com/AtenaHatta) - **
+
+
 
