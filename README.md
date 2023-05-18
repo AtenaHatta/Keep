@@ -1,137 +1,80 @@
-<a name="Keep"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-## Readme top
-<br />
-<div align="center">
-  <a href="https://keep-atenahatta.vercel.app/">
-    <img src="img/logo.png" alt="Logo" width="auto" height="80">
+<br/>
+<p align="center">
+  <a href="https://github.com/AtenaHatta/Keep">
+    <img src="https://keep-five.vercel.app/" alt="Logo" width="80" height="80">
   </a>
 
-  <p align="center" style=" text-align: justify;">
-      A Keep app is a digital tool that allows users to create, organize, and store various types of notes. It provides a convenient and efficient way to capture and manage information. </p>
-    <p align="center" style=" text-align: justify;"> 
-    <br />
-    <a href="https://keep-atenahatta.vercel.app/" target=”_blank”><strong>Explore Keep app</strong></a>
-    <br />
-    <br />
-    <a href="https://triviaguru.netlify.app/top.html">View Demo</a>
-    ·
-    <a href="https://github.com/Vvan31/MovieGuru/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Vvan31/MovieGuru/issues">Request Feature</a>
+  <h3 align="center">Keep</h3>
+
+  <p align="center">
+    Once you sign up, you can utilize this note app at any time! The app serves as a reminder, allowing you to effortlessly edit or delete your notes as frequently as desired.
+    <br/>
+    <br/>
+    <a href="https://github.com/AtenaHatta/Keep"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/AtenaHatta/Keep">View Demo</a>
+    .
+    <a href="https://github.com/AtenaHatta/Keep/issues">Report Bug</a>
+    .
+    <a href="https://github.com/AtenaHatta/Keep/issues">Request Feature</a>
   </p>
-</div>
+</p>
 
+![Downloads](https://img.shields.io/github/downloads/AtenaHatta/Keep/total) ![Contributors](https://img.shields.io/github/contributors/AtenaHatta/Keep?color=dark-green) ![Issues](https://img.shields.io/github/issues/AtenaHatta/Keep) ![License](https://img.shields.io/github/license/AtenaHatta/Keep) 
 
+## Table Of Contents
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Vvan31/MovieGuru/blob/main/img/ssGame.png)
-This app made with React.JS, 
+![Screen Shot](https://keep-five.vercel.app/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Keep app is a digital tool that allows users to create, edit, organize, and store various types of notes. It provides a convenient and efficient way to capture and manage information.
 
-### Built With
-* [![JS][JS.com]][JS-url]
-* [![React][React.com]][React-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![GSAP][GSAP.com]][GSAP-url]
+## Built With
 
+ReactJS
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* []()
 
+## Usage
 
+Please sign up by providing a title for your note in the "Title" field and the content of your note in the "Text" field. Afterward, click on the "Submit" button. Once you submit, a new note will be displayed. You can edit or delete the note as needed. Please note that only you can access and view this note; it is not visible to anyone else.
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Roadmap
 
-You can use the online version of the game [here](https://ubiquitous-fairy-124cfe.netlify.app/top.html) or you can clone the project to run localy. 
-We use [https://the-trivia-api.com/](the-trivia-api.com) to get all our questions and answers. The API does not need a Key but if you want more than 100,000 requests per month, there are more options for you that do need an API key on the website.
+See the [open issues](https://github.com/AtenaHatta/Keep/issues) for a list of proposed features (and known issues).
 
-### Installation
+## Contributing
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Vvan31/MovieGuru.git
-   ```
- 2. Run the index.html file on any web browser. 
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/AtenaHatta/Keep/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/AtenaHatta/Keep/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Creating A Pull Request
 
-<!-- CONTACT -->
-## Contact
-Atena [Atena's Github](https://github.com/AtenaHatta)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Project Link: [https://github.com/AtenaHatta/Keep.git](https://github.com/Vvan31/MovieGuru)
+## License
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Distributed under the MIT License. See [LICENSE](https://github.com/AtenaHatta/Keep/blob/main/LICENSE.md) for more information.
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Vvan31/MovieGuru.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vvan31/MovieGuru/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vvan31/MovieGuru.svg?style=for-the-badge
-[forks-url]: https://github.com/Vvan31/MovieGuru/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vvan31/MovieGuru.svg?style=for-the-badge
-[stars-url]: https://github.com/Vvan31/MovieGuru/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vvan31/MovieGuru.svg?style=for-the-badge
-[issues-url]: https://github.com/Vvan31/MovieGuru/issues
-[license-shield]: https://img.shields.io/github/license/Vvan31/MovieGuru.svg?style=for-the-badge
-[license-url]: https://github.com/Vvan31/MovieGuru/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/vivianos
-[product-screenshot]: https://github.com/Vvan31/MovieGuru/blob/main/img/ssGame.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-[JS.com]: https://img.shields.io/badge/Javascript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black
-[JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[GSAP.com]: https://img.shields.io/badge/CDN-GSAP-brightgreen
-[GSAP-url]: https://greensock.com/
+## Authors
+
+* **Atena Hatta** - ** - [Atena Hatta](https://github.com/AtenaHatta) - **
 
