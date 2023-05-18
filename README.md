@@ -32,10 +32,9 @@
 * [Authors](#authors)
 
 ## About The Project
-<!-- (https://keep-five.vercel.app/) -->
-<img src="image_keep_screenshot.png">
-
 Keep app is a digital tool that allows users to create, edit, organize, and store various types of notes. It provides a convenient and efficient way to capture and manage information.
+<img src="image_keep_screenshot.png">
+<!-- (https://keep-five.vercel.app/) -->
 
 ## Built With
 * [![React][React.js]][React-url]
