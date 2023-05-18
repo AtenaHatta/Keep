@@ -40,8 +40,7 @@
 Keep app is a digital tool that allows users to create, edit, organize, and store various types of notes. It provides a convenient and efficient way to capture and manage information.
 
 ## Built With
-
-ReactJS
+* [![React][React.js]][React-url]
 
 
 ## Usage
