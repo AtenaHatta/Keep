@@ -32,8 +32,6 @@
 * [Authors](#authors)
 
 ## About The Project
-
-![Screen Shot]
 <!-- (https://keep-five.vercel.app/) -->
 <img src="image_keep_screenshot.png">
 
