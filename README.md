@@ -11,7 +11,7 @@
     <a href="https://github.com/AtenaHatta/Keep"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/AtenaHatta/Keep">View Demo</a>
+    <a href="https://keep-five.vercel.app/">View Demo</a>
     .
     <a href="https://github.com/AtenaHatta/Keep/issues">Report Bug</a>
     .
