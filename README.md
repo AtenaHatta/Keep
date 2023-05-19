@@ -39,9 +39,6 @@ Keep app is a digital tool that allows users to create, edit, organize, and stor
 ## Built With
 * [Redux]()
 * [React]()
-* [JavaScript]()
-* [HTML5]()
-* [CSS3]()
 
 ## Usage
 
