@@ -8,10 +8,9 @@
     Once you sign up, you can utilize this note app at any time! The app serves as a reminder, allowing you to effortlessly edit or delete your notes as frequently as desired.
     <br/>
     <br/>
-    <a href="https://github.com/AtenaHatta/Keep"><strong>Explore the docs »</strong></a>
+    <a href="https://keep-five.vercel.app/"><strong>View Demo »</strong></a>
     <br/>
     <br/>
-    <a href="https://keep-five.vercel.app/">View Demo</a>
     .
     <a href="https://github.com/AtenaHatta/Keep/issues">Report Bug</a>
     .
