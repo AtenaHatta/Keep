@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    Once you sign up, you can utilize this note app at any time! The app serves as a reminder, allowing you to effortlessly edit or delete your notes as frequently as desired.
+    Once you sign up, you can utilize this note app at any time! The app serves as a reminder, allowing you to effortlessly edit or delete your notes as frequently as desired. 
     <br/>
     <br/>
     <a href="https://keep-five.vercel.app/"><strong>View Demo »</strong></a>
