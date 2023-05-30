@@ -20,16 +20,6 @@
 
 ![Downloads](https://img.shields.io/github/downloads/AtenaHatta/Keep/total) ![Contributors](https://img.shields.io/github/contributors/AtenaHatta/Keep?color=dark-green) ![Issues](https://img.shields.io/github/issues/AtenaHatta/Keep) ![License](https://img.shields.io/github/license/AtenaHatta/Keep) 
 
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-
 ## About The Project
 Keep app is a digital tool that allows users to create, edit, organize, and store various types of notes. It provides a convenient and efficient way to capture and manage information.
 <img src="image_keep_screenshot.png">
