@@ -31,8 +31,7 @@ Keep app is a digital tool that allows users to create, edit, organize, and stor
 
 ## Usage
 
-Please sign up by providing a title for your note in the "Title" field and the content of your note in the "Text" field. Afterward, click on the "Submit" button. Once you submit, a new note will be displayed. You can edit or delete the note as needed. Please note that only you can access and view this note; it is not visible to anyone else.
-
+Fill in a title for your note in the "Title" field and the content of your note in the "Text" field. Afterward, click on the "Submit" button. Once you submit, a new note will be displayed. Also you can edit or delete the note as needed. 
 ## Roadmap
 
 See the [open issues](https://github.com/AtenaHatta/Keep/issues) for a list of proposed features (and known issues).
