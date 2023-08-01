@@ -5,13 +5,12 @@
   </a>
 
   <p align="center">
-    Once you sign up, you can utilize this note app at any time! The app serves as a reminder, allowing you to effortlessly edit or delete your notes as frequently as desired.
+    Once you sign up, you can utilize this note app at any time! The app serves as a reminder, allowing you to effortlessly edit or delete your notes as frequently as desired. 
     <br/>
     <br/>
-    <a href="https://github.com/AtenaHatta/Keep"><strong>Explore the docs »</strong></a>
+    <a href="https://keep-five.vercel.app/"><strong>View Demo »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/AtenaHatta/Keep">View Demo</a>
     .
     <a href="https://github.com/AtenaHatta/Keep/issues">Report Bug</a>
     .
@@ -21,30 +20,18 @@
 
 ![Downloads](https://img.shields.io/github/downloads/AtenaHatta/Keep/total) ![Contributors](https://img.shields.io/github/contributors/AtenaHatta/Keep?color=dark-green) ![Issues](https://img.shields.io/github/issues/AtenaHatta/Keep) ![License](https://img.shields.io/github/license/AtenaHatta/Keep) 
 
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-
 ## About The Project
 Keep app is a digital tool that allows users to create, edit, organize, and store various types of notes. It provides a convenient and efficient way to capture and manage information.
 <img src="image_keep_screenshot.png">
 <!-- (https://keep-five.vercel.app/) -->
 
 ## Built With
-* React.js
-* Redux
-
+* [React]()
+* [Redux]()
 
 ## Usage
 
-Please sign up by providing a title for your note in the "Title" field and the content of your note in the "Text" field. Afterward, click on the "Submit" button. Once you submit, a new note will be displayed. You can edit or delete the note as needed. Please note that only you can access and view this note; it is not visible to anyone else.
-
+Fill in a title for your note in the "Title" field and the content of your note in the "Text" field. Afterward, click on the "Submit" button. Once you submit, a new note will be displayed. Also you can edit or delete the note as needed. 
 ## Roadmap
 
 See the [open issues](https://github.com/AtenaHatta/Keep/issues) for a list of proposed features (and known issues).
